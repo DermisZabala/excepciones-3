@@ -1,0 +1,15 @@
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.exe
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.deps.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.runtimeconfig.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.runtimeconfig.dev.json
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\bin\Debug\net5.0\excepciones3.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.AssemblyInfoInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.AssemblyInfo.cs
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.csproj.CoreCompileInputs.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\refint\excepciones3.dll
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.pdb
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\excepciones3.genruntimeconfig.cache
+C:\Users\HP PROBOOK\OneDrive\Desktop\c#\curso c#\excepciones\excepciones3\obj\Debug\net5.0\ref\excepciones3.dll
